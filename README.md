@@ -4,7 +4,7 @@
 
 ### <samp> I'm Thais Fernandes, 21 years old </samp>
 
-<samp>an Information Systems stundent at PUCRS in Porto Alegre, Brazil. </samp>
+<samp>an Information Systems student at PUCRS in Porto Alegre, Brazil. </samp>
 
 ###
 
