@@ -19,4 +19,4 @@
 
 <img src="https://img.shields.io/badge/-♥-white" /> <img src="https://img.shields.io/badge/-React%20Native-green" /> <img src="https://img.shields.io/badge/-React%20JS-blueviolet" /> <img src="https://img.shields.io/badge/-Javascript-ff69b4" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellowgreen" /> <img src="https://img.shields.io/badge/-Java-grey" /> <img src="https://img.shields.io/badge/-♥-white" />
 
-[<img src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=buefy" alt="Thais Stats" width="420" /> ](https://github.com/thaisrfernandes)
+[<img src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=buefy" alt="Thais Stats" width="100%" /> ](https://github.com/thaisrfernandes)
