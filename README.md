@@ -1,4 +1,4 @@
-<img align="right" src="https://media2.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e47u8j6wfi7qq1idvachzkm2hbp8dllwsmq207ocby6&rid=giphy.gif"/>
+<img align="right" width="420" src="https://media2.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e47u8j6wfi7qq1idvachzkm2hbp8dllwsmq207ocby6&rid=giphy.gif"/>
   
 ### <samp>Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></samp>
 
