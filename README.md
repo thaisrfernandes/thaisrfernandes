@@ -1,7 +1,7 @@
 ## Hey there!
 
 <br>
-<img align="right" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47707590768288edb6e51acc45ef64b3ad8bfa4c64&rid=giphy.gif"/>
+<img align="right" src="https://media2.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e47u8j6wfi7qq1idvachzkm2hbp8dllwsmq207ocby6&rid=giphy.gif"/>
   
 #### <samp>Thais Fernandes, 21 years old.</samp>
 
