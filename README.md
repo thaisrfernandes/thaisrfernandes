@@ -1,8 +1,8 @@
-## <samp>Hey there! :p</samp>
-
 <img align="right" height="350" src="https://media2.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e47u8j6wfi7qq1idvachzkm2hbp8dllwsmq207ocby6&rid=giphy.gif"/>
   
-### <samp>I'm Thais Fernandes, 21 years old </samp>
+### <samp>Hey there!</samp>
+
+### <samp> I'm Thais Fernandes, 21 years old </samp>
 
 <samp>an Information Systems stundent at PUCRS in Porto Alegre, Brazil. </samp>
 
