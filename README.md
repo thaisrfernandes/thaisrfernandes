@@ -1,7 +1,7 @@
 ## Hey there!
 
 <br>
-<img align="right" height="250" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47707590768288edb6e51acc45ef64b3ad8bfa4c64&rid=giphy.gif"/>
+<img align="right" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47707590768288edb6e51acc45ef64b3ad8bfa4c64&rid=giphy.gif"/>
   
 #### <samp>Thais Fernandes, 21 years old.</samp>
 
@@ -16,10 +16,4 @@
 
 ⚡ Fun fact: I love psychology, design, *cats* and music.
 
-<img align="right" src="https://img.shields.io/badge/-Java-grey" />
-<img align="right" src="https://img.shields.io/badge/-CSS-blue" />
-<img align="right" src="https://img.shields.io/badge/-HTML-yellow" />
-<img align="right" src="https://img.shields.io/badge/-Javascript-ff69b4" />
-<img align="right" src="https://img.shields.io/badge/-React%20JS-blueviolet" />
-<img align="right" src="https://img.shields.io/badge/-React%20Native-important" />
-<img align="right" src="https://img.shields.io/badge/-♥-black" />
+<img src="https://img.shields.io/badge/-Java-grey" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellow" /> <img src="https://img.shields.io/badge/-Javascript-ff69b4" /> <img src="https://img.shields.io/badge/-React%20JS-blueviolet" /> <img src="https://img.shields.io/badge/-React%20Native-important" /> <img src="https://img.shields.io/badge/-♥-black" />
