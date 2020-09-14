@@ -10,10 +10,10 @@
 ###
 
 
-🔭 I’m currently working on a **React Native** project at [*ilegra*](https://github.com/ilegra/).
+- 🔭 I’m currently working on a **React Native** project at [*ilegra*](https://github.com/ilegra/).
 
-🌱 I’m currently learning about **front-end tests**.
+- 🌱 I’m currently learning about **front-end tests**.
 
-⚡ Fun fact: I love psychology, design, *cats* and music.
+- ⚡ Fun fact: I love psychology, design, *cats* and music.
 
-<img src="https://img.shields.io/badge/-Java-grey" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellow" /> <img src="https://img.shields.io/badge/-Javascript-ff69b4" /> <img src="https://img.shields.io/badge/-React%20JS-blueviolet" /> <img src="https://img.shields.io/badge/-React%20Native-important" /> <img src="https://img.shields.io/badge/-♥-black" />
+<img src="https://img.shields.io/badge/-♥-black" /> <img src="https://img.shields.io/badge/-React%20Native-important" /> <img src="https://img.shields.io/badge/-React%20JS-blueviolet" /> <img src="https://img.shields.io/badge/-Javascript-ff69b4" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellow" /> <img src="https://img.shields.io/badge/-Java-grey" />
