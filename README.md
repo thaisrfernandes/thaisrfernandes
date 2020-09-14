@@ -1,6 +1,6 @@
-### <samp>Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></samp>
+<img align="right" width="40%" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e4741bce68b6f940ff1ad9e1167f8d8351d382e3982&rid=giphy.gif"/>
 
-<img align="right" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e4741bce68b6f940ff1ad9e1167f8d8351d382e3982&rid=giphy.gif"/>
+### <samp>Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></samp>
 
 ### <samp> I'm Thais Fernandes, 21 years old </samp>
 
@@ -8,6 +8,8 @@
 
 ###
 ##
+
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=buefy" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
 
 - 🔭 I’m currently working on a **React Native** project at [*ilegra*](https://github.com/ilegra/).
 
