@@ -12,7 +12,7 @@
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=buefy" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
 
-- 🌱 I’m currently learning about **front-end tests**.
+- 🌱 I’m currently learning about **containers**.
 
 - ⚡ Fun fact: I love psychology, design, *cats* and music.
 
