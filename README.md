@@ -2,7 +2,7 @@
 
 ### <samp>Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></samp>
 
-### <samp> I'm Thais Fernandes, 21 years old </samp>
+### <samp> I'm Thais Fernandes, 22 years old </samp>
 
 <samp>an Information Systems student at PUCRS in Porto Alegre, Brazil. </samp>
 
