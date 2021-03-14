@@ -8,11 +8,9 @@
 
 ###
 
-- 🔭 I’m currently working on a **React JS** personal project.
+- 🔭 I’m currently studying Swift and UX.
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=buefy" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
-
-- 🌱 I’m currently learning about **UX**.
 
 - ⚡ Fun fact: I love psychology, design, *cats* and music.
 
