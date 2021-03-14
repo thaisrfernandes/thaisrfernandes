@@ -18,6 +18,6 @@
 
 ##
 
-<img src="https://img.shields.io/badge/-React%20Native-green" /> <img src="https://img.shields.io/badge/-React%20JS-blueviolet" /> <img src="https://img.shields.io/badge/-Javascript-ff69b4" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellowgreen" /> <img src="https://img.shields.io/badge/-Java-grey" />
+<img src="https://img.shields.io/badge/-Swift-white" /> <img src="https://img.shields.io/badge/-React%20Native-green" /> <img src="https://img.shields.io/badge/-React%20JS-blueviolet" /> <img src="https://img.shields.io/badge/-JS/TS-ff69b4" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellowgreen" /> <img src="https://img.shields.io/badge/-Java-grey" />
 
 
