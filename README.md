@@ -8,7 +8,7 @@
 
 ###
 
-- 🔭 I’m currently studying Swift and UX.
+- 🔭 I’m currently studying iOS development and UX.
 
 - 👩🏻‍🎓 In college I'm involved in a project as a React JS developer.
 
