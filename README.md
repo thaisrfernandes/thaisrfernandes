@@ -12,7 +12,7 @@
 
 - 👩🏻‍🎓 In college I'm involved in a project as a React JS developer.
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=radical" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=radical&hide_border=true" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
 
 - ⚡ Fun fact: I love psychology, design, *cats* and music.
 
