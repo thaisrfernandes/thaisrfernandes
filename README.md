@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **studying iOS development** and **UX**.
 
-- 👩🏻‍🎓 In college I'm involved in a project as a **React JS developer**.
+- 💖 I also love to work with React or React Native and typescript.
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=radical&hide_border=true" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
 
