@@ -8,9 +8,9 @@
 
 ###
 
-- 🔭 I’m currently **studying iOS development** and **UX**.
+- 🔭 I’m currently **studying iOS development** and **UX**
 
-- 💖 I also love to work with **React JS**/**Native** and **typescript**.
+- 👩🏻‍💻 Working as a **freelance developer**
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=radical&hide_border=true" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
 
