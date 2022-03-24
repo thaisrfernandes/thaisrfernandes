@@ -18,6 +18,4 @@
 
 ##
 
-<img src="https://img.shields.io/badge/-Swift-white" /> <img src="https://img.shields.io/badge/-React%20Native-green" /> <img src="https://img.shields.io/badge/-React%20JS-blueviolet" /> <img src="https://img.shields.io/badge/-Typescript-white" /> <img src="https://img.shields.io/badge/-Javascript-ff69b4" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellowgreen" /> <img src="https://img.shields.io/badge/-Java-grey" />
-
-
+<img src="https://img.shields.io/badge/-Swift-orange" /> <img src="https://img.shields.io/badge/-Typescript-ff69b4" /> <img src="https://img.shields.io/badge/-Javascript-green" /> <img src="https://img.shields.io/badge/-Objective%20C-gray" /> <img src="https://img.shields.io/badge/-UIKit-white" /> <img src="https://img.shields.io/badge/-SwiftUI-yellow" /> <img src="https://img.shields.io/badge/-React%20Native-blueviolet" /> <img src="https://img.shields.io/badge/-React%20JS-green" /> <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellowgreen" /> 
