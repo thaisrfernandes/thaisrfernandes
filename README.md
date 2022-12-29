@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently **studying iOS development and UX**
 
-- 👩🏻‍💻 Working as a **freelance developer**
+- 👩🏻‍💻 Working as a **iOS developer**
 
-- 🔎 Interests in the moment: **Design System**, **CI/CD** and **Accessibility**
+- 🔎 Main interests: **Front-End**, **Design System** and **Accessibility**
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=radical&hide_border=true" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
 
