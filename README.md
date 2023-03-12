@@ -2,17 +2,17 @@
 
 ### <samp>Hey there! </samp>
 
-### <samp> I'm Thais Fernandes, 23 years old </samp>
+### <samp> I'm Thais Fernandes, 24 years old </samp>
 
-<samp>an Information Systems student at PUCRS in Porto Alegre, Brazil. </samp>
+<samp>Bachelor of Information Systems from Porto Alegre, Brazil. </samp>
 
 ###
 
 - 🔭 I’m currently **studying iOS development and UX**
 
-- 👩🏻‍💻 Working as a **iOS developer**
+- 👩🏻‍💻 Working as a **iOS developer** and **mentor** 
 
-- 🔎 Main interests: **Front-End**, **Design System** and **Accessibility**
+- 🔎 Main interests: **Front-End**, **Mobile Development** and **Accessibility**
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=radical&hide_border=true" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes)
 
