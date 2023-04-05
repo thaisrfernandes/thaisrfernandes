@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **studying iOS development and UX**
 
-- 👩🏻‍💻 Working as a **iOS developer** and **mentor** 
+- 👩🏻‍💻 Working as an **iOS developer** and **mentor** 
 
 - 🔎 Main interests: **Front-End**, **Mobile Development** and **Accessibility**
 
