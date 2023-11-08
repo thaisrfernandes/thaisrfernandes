@@ -8,7 +8,7 @@
 
 ###
 
-- 🔭 I’m currently **studying iOS development and UX**
+- 🔭 I’m currently **studying Product Management**
 
 - 👩🏻‍💻 Working as an **iOS developer** and **mentor** 
 
