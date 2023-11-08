@@ -12,7 +12,7 @@
 
 - 👩🏻‍💻 Working as an **iOS developer** and **mentor** 
 
-- 🔎 Main interests: **Front-End**, **Mobile Development** and **Accessibility**
+- 🔎 Main interests: **Mobile Development**, **Design Systems** and **Accessibility**
 
 <!-- [<img align="right" src="https://github-readme-stats.vercel.app/api?username=thaisrfernandes&show_icons=true&theme=radical&hide_border=true" alt="Thais Stats" width="40%" /> ](https://github.com/thaisrfernandes) -->
 
