@@ -2,7 +2,7 @@
 
 ### <samp>Hey there! </samp>
 
-### <samp> I'm Thais Fernandes, 24 years old </samp>
+### <samp> I'm Thais Fernandes, 25 years old </samp>
 
 <samp>Bachelor of Information Systems from Porto Alegre, Brazil. </samp>
 
