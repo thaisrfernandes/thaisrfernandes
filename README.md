@@ -1,5 +1,3 @@
-<img align="right" width="40%" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e4741bce68b6f940ff1ad9e1167f8d8351d382e3982&rid=giphy.gif"/>
-
 ### <samp>Hey there! </samp>
 
 ### <samp> I'm Thais Fernandes, 25 years old </samp>
